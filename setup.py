@@ -188,7 +188,7 @@ setup(
     license="Apache",
     author="The HuggingFace team",
     author_email="patrick@huggingface.co",
-    url="https://github.com/patrickvonplaten/controlnet_aux",
+    url="https://github.com/Atlexmobiego/controlnet_aux",
     package_dir={"": "src"},
     packages=find_packages("src"),
     include_package_data=True,
